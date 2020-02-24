@@ -4,7 +4,7 @@ import org.ua.ilm.Model.FileEntity;
 
 public class FileViewTxtImpl implements FileViewTxt{
 
-    public void printTxt(FileEntity file) {
+    public void printTxt(FileEntity fileEntity) {
 
     }
 }

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca7eedf4-6163-4ac0-a7c4-51587dcb9cd8" name="Default Changelist" comment="" />
+    <list default="true" id="ca7eedf4-6163-4ac0-a7c4-51587dcb9cd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ua/ilm/Controller/FileChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ua/ilm/Controller/FileChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ua/ilm/Controller/FileChangeWithFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ua/ilm/Controller/FileChangeWithFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ua/ilm/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ua/ilm/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ua/ilm/Model/FileEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ua/ilm/Model/FileEntity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,6 +39,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Y6wQTef4DMx7x4e2WhUg5jSX2k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,6 +57,26 @@
       <recent name="org.ua.ilm.DAO" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ua.ilm.Main.Main" />
+      <module name="SOLID" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ua.ilm.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -56,7 +87,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582276335970</updated>
-      <workItem from="1582276339711" duration="11952000" />
+      <workItem from="1582276339711" duration="12565000" />
+      <workItem from="1582534066656" duration="122000" />
+      <workItem from="1582535039505" duration="2846000" />
     </task>
     <servers />
   </component>
@@ -64,18 +97,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="258" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1582297093655">
+    <state x="768" y="258" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1582537238697">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="768" y="258" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582297093655" />
+    <state x="768" y="258" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582537238697" />
     <state x="813" y="434" key="Github.ShareDialog" timestamp="1582297625930">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="813" y="434" key="Github.ShareDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582297625930" />
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1582538351103">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582538351103" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1582538351103">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582538351103" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1582538351103">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582538351103" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1582538351103">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582538351103" />
     <state x="449" y="174" key="SettingsEditor" timestamp="1582295235996">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="174" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582295235996" />
+    <state x="616" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1582534067206">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="366" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582534067206" />
+    <state x="269" y="185" width="1372" height="708" key="new project wizard" timestamp="1582534186177">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="269" y="185" width="1372" height="708" key="new project wizard/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1582534186177" />
     <state x="623" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1582285666765">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

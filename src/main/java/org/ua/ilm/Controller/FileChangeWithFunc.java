@@ -5,14 +5,14 @@ import org.ua.ilm.Model.FileEntity;
 public class FileChangeWithFunc extends FileChange {   //Принцип открытости/закрытости (OCP) + Принцип подстановки Барбары Лисков (LSP)
 
     @Override
-    FileEntity changeTextFile(FileEntity fileEntity, String newText) {
+    public FileEntity changeTextFile(FileEntity fileEntity, String newText) {
         safeOldVersionFile(fileEntity);
         return super.changeTextFile(fileEntity, newText);
 
     }
 
     @Override
-    FileEntity changeFormatFile(FileEntity fileEntity, String newFormat) {
+    public FileEntity changeFormatFile(FileEntity fileEntity, String newFormat) {
         return super.changeFormatFile(fileEntity, newFormat);
     }
 

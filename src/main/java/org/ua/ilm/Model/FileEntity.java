@@ -34,4 +34,5 @@ public class FileEntity {//Принцип единственной ответс�
     public void setSize(long size) {
         this.size = size;
     }
+
 }
